@@ -15,7 +15,7 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Rayken/fitnessAPI/issues"
+      "url": "https://github.com/Rayken20/fitnessAPI/issues"
     },
     "dependencies": {
       "cors": "^2.8.5",
