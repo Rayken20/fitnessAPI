@@ -1,1 +1,1 @@
-## json API for my project
+## json API for my fitness project
